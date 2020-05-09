@@ -131,3 +131,10 @@
         display: none;
     }
 }
+
+
+@media screen and (max-width: 388px){
+    .menu{
+        padding-left: 10%;
+    }
+}
